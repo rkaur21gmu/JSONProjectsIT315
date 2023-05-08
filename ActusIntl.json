@@ -1,0 +1,27 @@
+{
+  ActusIntl: [
+    
+    {
+        ActionName: "Climate Change",
+        content: "\nWhat is climate? Climate is a weather condition which is not just a weather outside for today or tomorrow, but a weather condition projected in a certain region over a one-year time, or over 30 years. One rainy day in dessert area doesn't mean that dessert will not encounter drought. It is a prolonged estimation of average weather conditions in that region.\n\nEarth's climate has constantly been changing - even long before humans came into the picture. However, scientists have observed unusual changes recently. For example, Earth's average temperature has been increasing much more quickly than they would expect over the past 150 years. ",
+        images: "https://raw.githubusercontent.com/rkaur21gmu/JSONProjectsIT315/master/desert-2227962_1920.jpg",
+        website: "https://climate.nasa.gov"
+    },
+    {
+      
+      ActionName: "Effects on Animals",
+      content: "\"The report, from the UN's Intergovernmental Panel on Climate Change (IPCC), finds that many life-forms are moving north or into deeper waters to survive as their habitats shift.\" (Christine Dell'Amore) For instance, birds are having to change their habitat earlier than expected in spring time each year, due change in weather conditions. This behavior has been seen in many animals which suggests they are evolving; however, the weather conditions are rapidly changing that evolving too quickly is not possible for many other animals.\n \nFor some animals their habitant will be destroyed faster than expected. Koalas survive on the plant eucalyptus which will be harder to grow as years go by due to climate change, and many other animals who live mountaintop area who survive on plants.\n\nMajority of us are aware of the crisis Polar Bears are in. This Climate change is hitting them pretty hard. Sea levels are rising as the ice is melting in the Artic each year caused by temperature change which destroys Polar Bears habitat. \"As the Arctic sea ice retreats, polar bears have to exploit alternative food sources, such as on land,\" the scientists said, and some hungry polar bears have turned to goose eggs. But it's not the best alternative, Steven Amstrup, chief scientist for Polar Bears International. (Christine Dell'Amore)\n\nAdélie penguin birds mostly live on krill which lives under the ice sheets, “where they find refuge and algae as food.” (Christine Dell'Amore) But due to ice melting, krill population is decreasing rapidly. Like many other animals, penguins are having to find another food source and evolve faster than expected.\n\nWith the decreasing habitat for several animals, they are not successful at breeding which eventually leads to at risk of extinction. Below are some helpful links to different websites to provide more insight on effects on animals due to climate change.",
+      images: "https://raw.githubusercontent.com/rkaur21gmu/JSONProjectsIT315/master/icebear-2199534_1920.jpg",
+      website: "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi79uTb-vj9AhXFyZQJHTn0DyAYABAAGgJ5bQ&ohost=www.google.com&cid=CAASJORoT2_N3gBuy4RZyBRkJIwPEdvGUhbWh_03KJMyjlPYFVJnXA&sig=AOD64_0gC3sizo_zvbOeo9s_zCNfN0qqKQ&q&adurl&ved=2ahUKEwj23Nzb-vj9AhWjMlkFHboXB0UQ0Qx6BAgHEAE&nis=2"
+      
+    },
+    {
+      ActionName: "Contribution",
+      content: "Together we can make a change. We need your support more than ever after all it is our PLANET.\n\nPlease contact us at change@actusintl.com to make a donation today.",
+      images: "https://raw.githubusercontent.com/rkaur21gmu/JSONProjectsIT315/master/hand-4455338_1920.jpg",
+      website: "https://www.edf.org/climate"
+     
+    }
+  ],
+  "Status":"OK"
+}
