@@ -1,9 +1,8 @@
 {
   "ActusIntl": [
     
-    {
-        "ActionName": "Climate Change",
-        "content": "\nWhat is climate? Climate is a weather condition which is not just a weather outside for today or tomorrow, but a weather condition projected in a certain region over a one-year time, or over 30 years. One rainy day in dessert area doesn't mean that dessert will not encounter drought. It is a prolonged estimation of average weather conditions in that region.\n\nEarth's climate has constantly been changing - even long before humans came into the picture. However, scientists have observed unusual changes recently. For example, Earth's average temperature has been increasing much more quickly than they would expect over the past 150 years. ",
+    {   "ActionName" : "Climate Change",
+        "content" : "\nWhat is climate? Climate is a weather condition which is not just a weather outside for today or tomorrow, but a weather condition projected in a certain region over a one-year time, or over 30 years. One rainy day in dessert area doesn't mean that dessert will not encounter drought. It is a prolonged estimation of average weather conditions in that region.\n\nEarth's climate has constantly been changing - even long before humans came into the picture. However, scientists have observed unusual changes recently. For example, Earth's average temperature has been increasing much more quickly than they would expect over the past 150 years. ",
         "images": "https://raw.githubusercontent.com/rkaur21gmu/JSONProjectsIT315/master/desert-2227962_1920.jpg",
         "website": "https://climate.nasa.gov"
     },
